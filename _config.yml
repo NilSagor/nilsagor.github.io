@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "NilSagor"     #"https://github.com/NilSagor"
+      # url: "NilSagor"     #"https://github.com/NilSagor"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
