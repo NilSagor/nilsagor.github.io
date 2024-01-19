@@ -1,5 +1,7 @@
-# First Post Test
+---
+layout: post
+title: "Some articles are just so short that we have to make the footer stick"
+categories: misc
+---
 
-This is first post test
-
-Hello World
+the is post First
