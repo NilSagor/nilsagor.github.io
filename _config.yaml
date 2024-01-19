@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Md Masum Billa Shagar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -280,7 +280,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+   _posts
   - scope:
       path: ""
       type: posts
