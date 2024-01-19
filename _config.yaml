@@ -1,3 +1,6 @@
 title: MD MASUM BILLA SHAGAR | Nil Sagor
 
-theme: minima
+remote_theme: jekyll/minima
+
+header_pages:
+  - about.md
