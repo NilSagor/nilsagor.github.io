@@ -4,3 +4,6 @@ remote_theme: jekyll/minima
 
 header_pages:
   - about.md
+
+
+layout: post
