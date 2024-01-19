@@ -1,8 +1,10 @@
-# Graph Atlas
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
 
+# Welcome
 
-Atlas of all connected graphs with up to 6 nodes.
+**Hello world**, this is my first Jekyll blog post.
 
-This example uses Graphviz via PyGraphviz.
-
-The image should show 142 graphs. We don’t plot the empty graph nor the single node graph. (142 is the sum of values 2 to n=6 in sequence oeis.org/A001349).
+I hope you like it!
