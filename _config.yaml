@@ -217,11 +217,6 @@ sass:
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -255,6 +250,11 @@ minima:
   skin: classic
 
 
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 
@@ -300,7 +300,7 @@ defaults:
    #_posts
   - scope:
       path: ""
-      type: posts
+      type: _posts
     values:
       layout: single
       author_profile: true
